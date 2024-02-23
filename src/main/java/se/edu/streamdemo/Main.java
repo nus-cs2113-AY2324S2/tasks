@@ -34,6 +34,7 @@ public class Main {
     }
 
     public static void printAllData(ArrayList<Task> tasksData) {
+
         for (Task t : tasksData) {
             System.out.println(t);
         }
